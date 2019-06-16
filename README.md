@@ -7,4 +7,4 @@ Using Proximal Policy Optimization, agents are trained to pass randomly generate
 `python3 visualise_play.py` shows visualisation of agent solving mazes.
 `python3 maze_trainer.py` starts training of the agent.
 
-The project requires tensorflow 1.11 or higher. 
+The project requires tensorflow 1.11 or higher and pygame (for visualisation). 
