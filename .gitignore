@@ -131,4 +131,3 @@ dmypy.json
 
 *.pyc
 *tfevents*
-model2/
